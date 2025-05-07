@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ijeoma-coder
-- 👀 I’m interested in gaming and coding. Play a little basketball.
-- 🌱 I’m currently learning Python, while studying in a sixth-form college.
+- 👀 I’m interested in Game Dev, Data and Backend Engineering. 
+- 🌱 I’m currently learning Python,Java and JS  while studying at the University of Sheffield. 
 - 💞️ I’m looking to collaborate on Python projects and Data analysis or Game dev.
 - 📫 How to reach me, on Gmail @ij.uteh.obuseh@gmail.com
 
