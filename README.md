@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @Ijeoma-coder
-- 👀 I’m interested in Game Dev, Data and Backend Engineering. 
-- 🌱 I’m currently learning Python,Java and JS  while studying at the University of Sheffield. 
-- 💞️ I’m looking to collaborate on Python projects and Data analysis or Game dev.
-- 📫 How to reach me, on Gmail @ij.uteh.obuseh@gmail.com
+# Ijeoma Uteh-Obuseh
 
-<!---
-Ijeoma-coder/Ijeoma-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Developer with expertise in full-stack web development and a commitment to building scalable, maintainable solutions.
+
+## Contact
+
+- **Email**: [j.uteh.obuseh@gmail.com](mailto:j.uteh.obuseh@gmail.com)
+- **LinkedIn**: [Ijeoma Uteh-Obuseh](https://uk.linkedin.com/in/ijeoma-uteh-obuseh-535010331)
+
+## Technical Skills
+
+**Languages**: JavaScript, TypeScript, Python, SQL, HTML/CSS
+
+**Frontend**: React.js, Vue.js, Responsive Design, State Management (Redux, Vuex)
+
+**Backend**: Node.js, Express.js, RESTful APIs, Authentication Systems
+
+**Databases**: PostgreSQL, MongoDB, Query Optimization
+
+**DevOps & Tools**: Git, Docker, CI/CD Pipelines, AWS, JIRA
+
+## Professional Focus
+
+- Full-stack web application development
+- Agile team collaboration
+- Performance optimization
+- Code quality and maintainability
+- System design and architecture
+
+## Current Interests
+
+- Cloud-native application development
+- Advanced system design patterns
+- DevOps and infrastructure automation
+- Open-source contributions
+
+## Featured Projects
+
+*[Repository links and descriptions to be added]*
+
+---
+
+**Open to collaboration and professional opportunities.**
